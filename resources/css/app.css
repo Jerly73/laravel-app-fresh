@@ -25,10 +25,12 @@
         min-height: 100vh;
     }
 
+@layer components{
     .app-nav {
         background-color: rgb(252, 248, 242);
         color: #000;
         font-weight: 700;
         padding: 10px;
+    }
     }
 }
